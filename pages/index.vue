@@ -76,8 +76,8 @@
 <p>For those who&rsquo;re looking for a quick and effective way of making animations and motion graphics, Alight Motion is certainly a great choice for portable uses. That&rsquo;s said, the app can work on most of your mobile devices with little problems. More importantly, it comes with a variety of useful and effective features for creating beautiful animations. Hence, it would make a great add-up to your brilliant video editor collection.</p>
 
 <p>Plus, with the app being completely unlocked and free on our website, we don&rsquo;t see any reason to now having installed. Feel free to dive into the world of creativity and enjoy creating animations to the fullest whenever you&rsquo;re ready.</p>
-       
-    <JokeBlock />
+   <FeedbackForm />
+    
     </div>
   </main>
 </template>
