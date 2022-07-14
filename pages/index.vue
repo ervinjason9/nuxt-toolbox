@@ -76,26 +76,8 @@
 <p>For those who&rsquo;re looking for a quick and effective way of making animations and motion graphics, Alight Motion is certainly a great choice for portable uses. That&rsquo;s said, the app can work on most of your mobile devices with little problems. More importantly, it comes with a variety of useful and effective features for creating beautiful animations. Hence, it would make a great add-up to your brilliant video editor collection.</p>
 
 <p>Plus, with the app being completely unlocked and free on our website, we don&rsquo;t see any reason to now having installed. Feel free to dive into the world of creativity and enjoy creating animations to the fullest whenever you&rsquo;re ready.</p>
-      <p>
-        Hi 👋! This template gives you a
-        <a href="https://nuxtjs.org/">Nuxt</a> app with the scaffolding for
-        <a href="https://www.netlify.com/products/functions/"
-          >Netlify Functions</a
-        >, <a href="https://www.netlify.com/products/forms/">Forms</a>, and
-        <a href="https://docs.netlify.com/routing/redirects/">Redirects</a>. Our
-        aim was to give you the code you would need to hit the ground running
-        with a few fun features.
-      </p>
-
-      <p>
-        You can find the code for this project on GitHub at
-        <a href="https://github.com/netlify-templates/nuxt-toolbox"
-          >https://github.com/netlify-templates/nuxt-toolbox</a
-        >! Happy coding!
-      </p>
+      
     </div>
-    <FeedbackForm />
-    <JokeBlock />
   </main>
 </template>
 
